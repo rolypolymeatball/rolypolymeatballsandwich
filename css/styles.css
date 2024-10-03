@@ -200,6 +200,20 @@ article img {
 	width: 70%;
 	margin: 0 auto;
 }
+aside a{ 
+	text-decoration: none;
+	font-weight: 900;
+}
+		
+
+aside a:link,
+aside a:visited { 
+	color: #ba0600;
+}
+aside a:hover,
+aside a:active{ 
+	color: #ffebcd;
+}
 
 footer {
 	padding: 40px 0;
