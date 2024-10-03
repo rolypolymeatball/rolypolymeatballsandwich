@@ -9,12 +9,17 @@
 
 <url>
   <loc>https://rolypolymeatballsandwich.netlify.app/</loc>
-  <lastmod>2024-09-24T20:53:49+00:00</lastmod>
+  <lastmod>2024-10-03T16:02:35+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://rolypolymeatballsandwich.netlify.app/license.txt</loc>
-  <lastmod>2024-09-24T20:53:49+00:00</lastmod>
+  <lastmod>2024-10-03T16:02:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rolypolymeatballsandwich.netlify.app/privacy.txt</loc>
+  <lastmod>2024-10-03T16:02:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
