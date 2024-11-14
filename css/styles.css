@@ -309,7 +309,7 @@ h3 {
 	font-size: 36px;
 }
 
-footer {
+footer ol{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
